@@ -1,4 +1,3 @@
-# Ellie Palazzolo
 ### Department of History | Johns Hopkins University
   
 #### About
