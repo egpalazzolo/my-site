@@ -9,4 +9,4 @@ In addition to the dissertation, I have dedicated time in graduate school to tea
 
 I'm very interested in the 1893 Chicago World's Fair. Here is an 'Exhibit.' of a map of that event.
 
-<iframe src="https://www.exhibit.so/exhibits/Tebm83H0GHNkhbmLxsbt?embedded=true" width="1024" height="768" allowfullscreen allow="autoplay" frameborder="0"></iframe>
+<iframe src="https://www.exhibit.so/exhibits/Tebm83H0GHNkhbmLxsbt?embedded=true" width="640" height="480" allowfullscreen allow="autoplay" frameborder="0"></iframe>
