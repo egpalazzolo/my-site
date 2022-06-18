@@ -1,8 +1,8 @@
 # Elena G. Palazzolo
 
-Johns Hopkins University
-Department of History
-Gilman Hall, Bowman Drive, Baltimore, MD 21218
+Johns Hopkins University | 
+Department of History | 
+Gilman Hall, Bowman Drive, Baltimore, MD 21218 | 
 Email: [epalazz1@jhu.edu](epalazz1@jhu.edu)
 
 
