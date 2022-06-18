@@ -6,7 +6,7 @@ Gilman Hall, Bowman Drive, Baltimore, MD 21218 | Email: [epalazz1@jhu.edu](epala
 
 ## Education
 
-**Johns Hopkins University**, Baltimore, Maryland (August 2019-Present)
+**Johns Hopkins University**, Baltimore, Maryland (August 2019-Present)  
 PhD Candidate in History
 
 *Advisors*: François Furstenberg, PhD and Martha S. Jones, PhD
@@ -15,11 +15,11 @@ PhD Candidate in History
 
 *Research interests*: Race, nation, and movements in the nineteenth century Atlantic world; Foodways, taste, cuisines; Family, genders, sexualities; Memory and the Lost Cause; Labor
 
-**University of Richmond**, Richmond, Virginia (May 2019)
+**University of Richmond**, Richmond, Virginia (May 2019)  
 Bachelor of Arts with Honors, History and French, *Summa Cum Laude*
 Phi Beta Kappa
 
-**The Paris Institute of Political Studies**, Paris, France (December 2017)
+**The Paris Institute of Political Studies**, Paris, France (December 2017)  
 Certificate of Studies in Social Sciences and Humanities
 
 
@@ -27,9 +27,9 @@ Certificate of Studies in Social Sciences and Humanities
 
 **Digital Strategist** for *Keywords for Black Louisiana, Enslaved and Free in Gulf Coast Louisiana - a [LifexCode](https://www.lifexcode.org/) project* (2020-Present)
 
-**Graduate Student Fellow**
+**Technology Fellow** for *Center for Teaching Excellence and Innovation Instructional Enhancement Grant* towards "Mapping Revolution under Dr. Sarah Pearsall, JHU, Department of History
 
-**Graduate Student Fellow**
+**Technology Fellow** for *Center for Educational Resources* for "StoryMaps for History 115 - Modern Latin America" under Dr. Casey Lurtz, JHU, Department of History
 
 **Research Assistant**
 
@@ -67,8 +67,8 @@ Certificate of Studies in Social Sciences and Humanities
 
 ## Languages
 
-English: L1 fluency
-French: Excellent reading; Advanced writing and speaking
+English: L1 fluency  
+French: Excellent reading; Advanced writing and speaking  
 Italian: Advanced reading, writing, and speaking
 
 
