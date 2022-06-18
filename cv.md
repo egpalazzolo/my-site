@@ -1,9 +1,7 @@
 # Elena G. Palazzolo
 
-Johns Hopkins University
-Department of History
-Gilman Hall, Bowman Drive, Baltimore, MD 21218
-Email: [epalazz1@jhu.edu](epalazz1@jhu.edu)
+Johns Hopkins University | Department of History\
+Gilman Hall, Bowman Drive, Baltimore, MD 21218 | Email: [epalazz1@jhu.edu](epalazz1@jhu.edu)\
 
 
 ## Education
@@ -27,7 +25,7 @@ Certificate of Studies in Social Sciences and Humanities
 
 ## Research
 
-**Digital Strategist** for *Keywrods for Black Louisiana, Enslaved and Free in Gulf Coast Louisiana - a [LifexCode](https://www.lifexcode.org/) project* (2020-Present)
+**Digital Strategist** for *Keywords for Black Louisiana, Enslaved and Free in Gulf Coast Louisiana - a [LifexCode](https://www.lifexcode.org/) project* (2020-Present)
 
 **Graduate Student Fellow**
 
